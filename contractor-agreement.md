@@ -21,8 +21,11 @@ Work will be performed 100% remote from a location in Romania. The Company shoul
 ### E. Type of Work
 Developer. COR code 251202.
 
-### F. Work duration
-40 hours per week with working hours as agreed with the Client.
+### F. Work days and duration
+1. Bank holidays are considered Romanian bank holidays. No work time during bank holidays.
+2. The Contractor may take up to 10 days off per year with the approval of the Client. No work time during the approved days off.
+3. Working time is 40 hours per week, unless points F.1. and F.2 above apply, with working hours as agreed with the Client. 
+4. No extra hours.
 
 ### G. Discovery period
 The discovery period is 60 days.
@@ -71,14 +74,16 @@ or (e) information the Receiving Party develops independent of any information o
 The compensation is a one timer only for the relation between the Company and the Contractor.
 
 ## Section 5 - Payment Terms and Schedule
-The Contractor should provide an invoice and a statement with the hours worked for the invoiced period to The Company. The statement needs to include: 
+1. Bank holidays and days off are unpaid.
+2. The Contractor should provide an invoice and a statement with the hours worked for the invoiced period to The Company. The statement needs to include: 
 - The Contractor name
 - The Company tracking number for the statement   
 - date  
 - performed activity  
 - hours per the activity
 
-The statement needs to have the approval of the Client. The flow to get this approval of the Client would be:  
+The statement needs to have the approval of the Client. The Client approval is for the whole statement, the Client cannot issue an approval only for part of the hours.  
+The flow to get this approval of the Client would be:  
 a. The Contractor sends the statement by email to the Client representative (previously specified by The Company) and CCing The Company representative  
 b. In case The Client responds to the email to the Contractor and CCing the Company representative with an approval in the email body, the statement is considered approved. The Contractor can also forward the Client approval if the Company representative was not in the approval email.  
 
