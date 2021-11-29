@@ -70,7 +70,7 @@ or (e) information the Receiving Party develops independent of any information o
 
 ## Section 4 - Conflict of Interest
 1. For the term of the Agreement and within a 12 month period after the Agreement termination, the Contractor shall not perform any contracted work for the Client, including being a direct employee.
-2. In the case the Contractor is aware of a contract or direct employee situation between the Contractor and the Client or Contractor representative and the Client, the Company is entitled to a compensation from the Cient in a maximum amount of 160 multiplied with the hourly rate from Annex 2.  
+2. In the case the Company is aware of a contract or direct employee situation between the Contractor and the Client or Contractor representative and the Client, the Company is entitled to a compensation from the Cient in a maximum amount of 160 multiplied with the hourly rate from Annex 2.  
 The compensation is a one timer only for the relation between the Company and the Contractor.
 
 ## Section 5 - Payment Terms and Schedule
